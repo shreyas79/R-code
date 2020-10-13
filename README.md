@@ -6,3 +6,5 @@ compare the accuracy of regression on a given data set for different subset sele
 
 1.R and 2.R takes a cereal data set and does data exploration, finds and removes outliers and then does prediction with several of the features and their combination,
 3.R compares the accuracy of KNN and regression with different values for K
+
+hclust.R: shows heirarchical clustering on a sample data, and shows different types of linkage
