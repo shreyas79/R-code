@@ -9,4 +9,6 @@ compare the accuracy of regression on a given data set for different subset sele
 
 hclust.R: shows heirarchical clustering on a sample data, and shows different types of linkage
 
-SOM.r: Self organizing maps, hclust_kmeans.R : comparison between heirarchial clustering and kmeans clustrering, SOM_hclust.R : comparison between SOM and heirarchial clustering, Dtree.R : Dtree on wine data set to 
+SOM.r: Self organizing maps, hclust_kmeans.R : comparison between heirarchial clustering and kmeans clustrering, SOM_hclust.R : comparison between SOM and heirarchial clustering, Dtree.R : Dtree on wine data set to, Rforest.R : select the best m for random forest and spam data set
+
+
