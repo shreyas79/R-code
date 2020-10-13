@@ -3,3 +3,6 @@ This consists of various models (both supervised and unsupervised) applied to va
 
 P4:
 compare the accuracy of regression on a given data set for different subset selection and different regularization methods
+
+1.R and 2.R takes a cereal data set and does data exploration, finds and removes outliers and then does prediction with several of the features and their combination,
+3.R compares the accuracy of KNN and regression with different values for K
