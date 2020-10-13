@@ -11,4 +11,8 @@ hclust.R: shows heirarchical clustering on a sample data, and shows different ty
 
 SOM.r: Self organizing maps, hclust_kmeans.R : comparison between heirarchial clustering and kmeans clustrering, SOM_hclust.R : comparison between SOM and heirarchial clustering, Dtree.R : Dtree on wine data set to, Rforest.R : select the best m for random forest and spam data set
 
+p5.R : comparision of random forest, KNN, regression, bagging and boosting for RMSE on boston data set
+
+SVM.R : SVM with different kernals on OJ data set to compare train and test errors
+
 
